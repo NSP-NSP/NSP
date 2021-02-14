@@ -22,24 +22,8 @@
 * {
   margin: 0;
   padding: 0; }
-<<<<<<< HEAD
   
-.single-products-catagory{
-  border:1px solid black;
 }
-.container{
-  text-align: center;
-}
-=======
-  .container{
-    text-align: center;
-  }
-.container{
-    text-align: center;
-  }
- 
- 
->>>>>>> 088051eb20abdb1a420727b842f52b813fef44bd
 body {
   font-family: "helveticaneuemedium";
   font-size: 16px; }
@@ -53,6 +37,13 @@ h6 {
   color: #242424;
   line-height: 1.3;
   font-weight: 400; }
+  
+  .container{
+  text-align: center;
+}
+.single-products-catagory{
+  border:1px solid black;
+}
 
 p {
   color: #6d6d6d;
