@@ -22,6 +22,7 @@
 * {
   margin: 0;
   padding: 0; }
+<<<<<<< HEAD
   
 .single-products-catagory{
   border:1px solid black;
@@ -29,6 +30,16 @@
 .container{
   text-align: center;
 }
+=======
+  .container{
+    text-align: center;
+  }
+.container{
+    text-align: center;
+  }
+ 
+ 
+>>>>>>> 088051eb20abdb1a420727b842f52b813fef44bd
 body {
   font-family: "helveticaneuemedium";
   font-size: 16px; }
