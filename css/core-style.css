@@ -38,7 +38,12 @@
 
   
 }
-
+.btn{
+  border-style:  none;
+  background: none;
+  list-style: none;
+  color: #959595;
+}
 .card {
   border: none
 }
